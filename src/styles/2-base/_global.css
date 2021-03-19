@@ -1,0 +1,26 @@
+html,
+body {
+	font-family: var(--ff-primary);
+	color: var(--clr-black);
+}
+
+main {
+	display: flex;
+	height: 100vh;
+	align-items: center;
+	padding: 6.25em;
+}
+
+/* BUTTON */
+.btn {
+	cursor: pointer;
+	display: inline-block;
+	background: var(--clr-red);
+	color: var(--clr-white);
+	text-decoration: none;
+	padding: 0.625em 1.875em;
+	margin: 1.25em 0;
+}
+.btn:hover {
+	transform: scale(0.98);
+}

@@ -1,0 +1,16 @@
+/* LOGO */
+.logo {
+	position: absolute;
+	top: 1em;
+	left: 3.33em;
+	font-size: 2rem;
+	font-weight: var(--fw-bold);
+	z-index: 10;
+}
+
+/* TOGGLE */
+
+/* NAVIGATION */
+.nav {
+	display: none;
+}

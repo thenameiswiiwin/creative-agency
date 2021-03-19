@@ -1,0 +1,12 @@
+.home__img {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	height: 110%;
+}
+
+.home__content {
+	position: relative;
+	z-index: 10;
+	max-width: 37.5em;
+}

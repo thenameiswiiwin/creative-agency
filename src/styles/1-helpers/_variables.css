@@ -1,0 +1,19 @@
+:root {
+	/* COLOR */
+	--clr-black: #111;
+	--clr-white: #fff;
+	--clr-red: #f60f20;
+
+	/* FONT FAMILY */
+	--ff-primary: 'Poppins', san-serif;
+
+	/* FONT WEIGHT */
+	--fw-thin: 200;
+	--fw-light: 300;
+	--fw-normal: 400;
+	--fw-medium: 500;
+	--fw-semiBold: 600;
+	--fw-bold: 700;
+	--fw-xtrBold: 800;
+	--fw-black: 900;
+}
