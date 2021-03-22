@@ -1,1 +1,2 @@
-@import './_mixins.css';
+@import './_tablet.css';
+@import './_mobile.css';

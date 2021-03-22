@@ -24,10 +24,3 @@
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
-
-@media (max-width: 768px) {
-	/* SERVICES */
-	.services__wrapper {
-		grid-template-columns: 1fr;
-	}
-}
