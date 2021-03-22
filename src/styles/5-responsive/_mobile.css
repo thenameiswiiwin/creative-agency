@@ -3,4 +3,7 @@
 	.services__wrapper {
 		grid-template-columns: 1fr;
 	}
+	.services__service {
+		box-shadow: var(--bs-service-hover);
+	}
 }

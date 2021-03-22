@@ -2,7 +2,6 @@ html,
 body {
 	font-family: var(--ff-primary);
 	color: var(--clr-black);
-	overflow: hidden;
 }
 
 main {

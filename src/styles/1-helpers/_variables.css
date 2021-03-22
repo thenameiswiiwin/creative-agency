@@ -4,6 +4,7 @@
 	--clr-white: #fff;
 	--clr-red: #f60f20;
 	--clr-purple: #1b206e;
+	--clr-action: rgba(0, 0, 0, 0.8);
 
 	/* FONT FAMILY */
 	--ff-primary: 'Poppins', san-serif;

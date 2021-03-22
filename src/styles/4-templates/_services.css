@@ -1,6 +1,7 @@
 .services {
 	flex-direction: column;
 	margin-top: 3.75em;
+	text-align: center;
 }
 
 .services__wrapper {
@@ -8,7 +9,6 @@
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	gap: 2.5em;
-	text-align: center;
 }
 
 .services__service {
