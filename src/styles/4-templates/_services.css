@@ -2,3 +2,28 @@
 	flex-direction: column;
 	margin-top: 3.75em;
 }
+
+.services__wrapper {
+	margin-top: 2.5em;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 2.5em;
+	text-align: center;
+}
+
+.services__service {
+	padding: 1.875em;
+}
+.services__service:hover {
+	box-shadow: var(--bs-service-hover);
+}
+
+.services__icon img {
+	max-width: 6.26em;
+	display: inline-block;
+}
+
+.services__subTitle {
+	margin-top: 0.875em;
+	color: var(--clr-purple);
+}

@@ -1,7 +1,10 @@
 @media (max-width: 1068px) {
+	/* GLOBAL */
 	main {
 		padding: 100px 40px;
 	}
+
+	/* HEADER */
 	.logo {
 		top: 0.33em;
 		left: 1.65em;
@@ -10,7 +13,21 @@
 	.nav ul li a {
 		font-size: 2rem;
 	}
+
+	/* HOME */
 	.home__img {
 		display: none;
+	}
+
+	/* SERVICES */
+	.services__wrapper {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (max-width: 768px) {
+	/* SERVICES */
+	.services__wrapper {
+		grid-template-columns: 1fr;
 	}
 }

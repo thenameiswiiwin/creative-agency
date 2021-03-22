@@ -5,7 +5,12 @@ h1 {
 	font-weight: var(--fw-medium);
 }
 
+h2 {
+	font-size: 1.5rem;
+	font-weight: var(--fw-medium);
+}
+
 p {
 	font-size: 1.1rem;
-	margin: 1.5em 0 0.625em;
+	font-weight: var(--fw-normal);
 }

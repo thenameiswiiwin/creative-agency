@@ -3,6 +3,7 @@
 	--clr-black: #111;
 	--clr-white: #fff;
 	--clr-red: #f60f20;
+	--clr-purple: #1b206e;
 
 	/* FONT FAMILY */
 	--ff-primary: 'Poppins', san-serif;
@@ -16,4 +17,7 @@
 	--fw-bold: 700;
 	--fw-xtrBold: 800;
 	--fw-black: 900;
+
+	/* BOX SHADOW */
+	--bs-service-hover: 0 10px 30px rgba(0, 0, 0, 0.1);
 }

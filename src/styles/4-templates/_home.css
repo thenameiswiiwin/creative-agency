@@ -16,3 +16,7 @@
 	max-width: 37.5em;
 	bottom: 6.1em;
 }
+
+.home__description {
+	margin: 1.5em 0 0.625em;
+}
