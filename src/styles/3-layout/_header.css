@@ -3,7 +3,7 @@
 	position: absolute;
 	top: 1em;
 	left: 3.33em;
-	font-size: 2rem;
+	font-size: 2.1rem;
 	font-weight: var(--fw-bold);
 	z-index: 20;
 }
@@ -15,7 +15,7 @@
 	right: 0;
 	width: 3.75em;
 	height: 3.75em;
-	background: var(--clr-red) url(/src/static/assets/menu.png);
+	background: var(--clr-red) url(/src/static/img/menu.png);
 	background-size: 1.875em;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -23,7 +23,7 @@
 	cursor: pointer;
 }
 .toggle.active {
-	background: var(--clr-red) url(/src/static/assets/close.png);
+	background: var(--clr-red) url(/src/static/img/close.png);
 	background-size: 1.563em;
 	background-repeat: no-repeat;
 	background-position: center;

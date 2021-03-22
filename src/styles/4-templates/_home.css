@@ -1,3 +1,8 @@
+.home {
+	flex-direction: row;
+	margin-top: 0;
+}
+
 .home__img {
 	position: absolute;
 	bottom: 0;
@@ -9,4 +14,5 @@
 	position: relative;
 	z-index: 10;
 	max-width: 37.5em;
+	bottom: 6.1em;
 }
